@@ -1,5 +1,5 @@
 # springbootdemoproject
-Basic Spring boot project sample 
+Java Spring Boot Project Sample With Basic Configuration
 
 You can see this video that how this project was created and how it was executed.
 
